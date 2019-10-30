@@ -71,7 +71,7 @@ print "Messages on 'news' queue:"
 dump_queue(local_news_queue)
 
 print "Messages on 'weather' queue:"
-dump_queue(local_weather_queue)
+#dump_queue(local_weather_queue)
 
 print "Messages on 'Sikkim' queue:"
 dump_queue(local_Sikkim_queue)
